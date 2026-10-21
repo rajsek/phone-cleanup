@@ -1,0 +1,8 @@
+# Device inventories, identifiers, and local experiments must stay local.
+/runs/
+/.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.apk
+*.log

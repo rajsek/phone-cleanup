@@ -2,7 +2,7 @@
 
 A small, review-first ADB workflow for cleaning up family Android phones. Built from maintenance work on older Redmi/POCO devices, including a POCO M2 and POCO C31. There is no universal uninstall list and no claim that unfamiliar apps are malware.
 
-Read the story: [I Asked Codex to Clean Four Family Phones. The ₹49 Ad Had Other Plans.](ARTICLE.md)
+Read the story: [Cleaning Up Four Family Phones with Codex.](ARTICLE.md)
 
 ## Requirements
 
